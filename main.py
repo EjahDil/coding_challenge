@@ -17,6 +17,6 @@ if __name__ == "__main__":
         return result_list
 
     output = linked_list_to_list(result)
-    print(output)  # Output: [7, 0, 8]
+    print(output)
 
     
