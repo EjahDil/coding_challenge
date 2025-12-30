@@ -1,7 +1,6 @@
 # LeetCode Coding Challenges
 
-This repository contains my **solutions to coding challenges from LeetCode**.  
-The goal of this repository is to **improve problem-solving skills, strengthen data structures & algorithms knowledge**, and prepare for **technical interviews**.
+This repository contains my **solutions to coding challenges from LeetCode**. The goal of this repository is to **improve problem-solving skills, strengthen data structures & algorithms knowledge**.
 
 ---
 
